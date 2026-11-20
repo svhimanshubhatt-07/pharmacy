@@ -1,0 +1,19 @@
+# Runs on the VPS in /docker/niet-pharmacy-dev behind the existing Traefik (docker provider, letsencrypt resolver).
+# Copied to the server by .github/workflows/ci-cd.yml; TAG is the commit SHA of the image to run.
+services:
+  web:
+    image: ghcr.io/niet-main/niet-pharmacy-website-2026:${TAG:-latest}
+    container_name: niet-pharmacy-dev
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 15s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.niet-pharmacy-dev.entrypoints=websecure"
+      - "traefik.http.routers.niet-pharmacy-dev.rule=Host(`dev.nietpharmacy.co.in`)"
+      - "traefik.http.routers.niet-pharmacy-dev.tls.certresolver=letsencrypt"
+      - "traefik.http.services.niet-pharmacy-dev.loadbalancer.server.port=3000"

@@ -1,0 +1,48 @@
+export interface PolicyItem {
+  sNo: number;
+  title: string;
+  pdfUrl: string;
+}
+
+export const institutionalPolicies: PolicyItem[] = [
+  { sNo: 1, title: "Revised 3R Policy", pdfUrl: "/pdf/policy/Revised3RPolicy.pdf" },
+  { sNo: 2, title: "Innovation & Startups Policy", pdfUrl: "/pdf/policy/Innovation-and-startups-policy.pdf" },
+  { sNo: 3, title: "The Revised Exam Policy", pdfUrl: "/pdf/policy/REVISED EXAM POLICY WEF 2022.pdf" },
+  { sNo: 4, title: "IPR Policy", pdfUrl: "/pdf/policy/IPR-POLICY.pdf" },
+  { sNo: 5, title: "AAC", pdfUrl: "/pdf/policy/AAC.pdf" },
+  { sNo: 6, title: "Academic Policy", pdfUrl: "/pdf/policy/Academic-Policy.pdf" },
+  { sNo: 7, title: "Bright Student", pdfUrl: "/pdf/policy/Bright-Student.pdf" },
+  { sNo: 8, title: "Chandrasen Agarwal Incentive", pdfUrl: "/pdf/policy/Chandrasen-Agarwal-Incentive.pdf" },
+  { sNo: 9, title: "Course File", pdfUrl: "/pdf/policy/Course-FIle.pdf" },
+  { sNo: 10, title: "Earned Leave", pdfUrl: "/pdf/policy/Earned-Leave.pdf" },
+  { sNo: 11, title: "Faculty Appraisal", pdfUrl: "/pdf/policy/Faculty-Appraisal.pdf" },
+  { sNo: 12, title: "Feedback", pdfUrl: "/pdf/policy/Feedback.pdf" },
+  { sNo: 13, title: "Grievance Redressal Cell", pdfUrl: "/pdf/policy/Grievance-Redressal-Cell.pdf" },
+  { sNo: 14, title: "Honorariumn TA for Expert Lecture", pdfUrl: "/pdf/policy/Honorariumn-TA -for-Expert-Lecture.pdf" },
+  { sNo: 15, title: "Honorariumn TA for Expert Fac Selection", pdfUrl: "/pdf/policy/Honorariumn-TA-for-Expert_Fac-Selection.pdf" },
+  { sNo: 16, title: "Hospital Training", pdfUrl: "/pdf/policy/Hospital-Training.pdf" },
+  { sNo: 17, title: "Industrial Visit", pdfUrl: "/pdf/policy/Industrial-Visit.pdf" },
+  { sNo: 18, title: "Internal Memo HOD", pdfUrl: "/pdf/policy/Internal-Memo-HOD.pdf" },
+  { sNo: 19, title: "Int Quality Control", pdfUrl: "/pdf/policy/Int-Quality-Control.pdf" },
+  { sNo: 20, title: "Leave and Service Rule", pdfUrl: "/pdf/policy/Leave-N-Service-rule.pdf" },
+  { sNo: 21, title: "Revised Leave Policy", pdfUrl: "/pdf/policy/Leave-Policy.pdf" },
+  { sNo: 22, title: "Medical Reimbursement", pdfUrl: "/pdf/policy/Medical-Reimbursement.pdf" },
+  { sNo: 23, title: "Mentoring System", pdfUrl: "/pdf/policy/Mentoring-System.pdf" },
+  { sNo: 24, title: "Policy Index", pdfUrl: "/pdf/policy/Policy-Index0001.pdf" },
+  { sNo: 25, title: "Project", pdfUrl: "/pdf/policy/Project.pdf" },
+  { sNo: 26, title: "PTM", pdfUrl: "/pdf/policy/PTM.pdf" },
+  { sNo: 27, title: "Purchase", pdfUrl: "/pdf/policy/Purchase.pdf" },
+  { sNo: 28, title: "Question Paper University", pdfUrl: "/pdf/policy/Question-Paper-University.pdf" },
+  { sNo: 29, title: "Requirement Procedure", pdfUrl: "/pdf/policy/Requirement-procedure.pdf" },
+  { sNo: 30, title: "Research Policy", pdfUrl: "/pdf/policy/Research-Policy.pdf" },
+  { sNo: 31, title: "Research Policy", pdfUrl: "/pdf/policy/Research-Policy.pdf" },
+  { sNo: 32, title: "Research Policy (Revised on 1st January 2024)", pdfUrl: "/pdf/policy/Revised-Research-Policy.pdf" },
+  { sNo: 33, title: "Sessional Question Amendment", pdfUrl: "/pdf/policy/Sessional-Question_Amendment.pdf" },
+  { sNo: 34, title: "Sessional Question Paper 2012", pdfUrl: "/pdf/policy/Sessional-Question-Paper-2012.pdf" },
+  { sNo: 35, title: "Sessional Question Paper 2016", pdfUrl: "/pdf/policy/Sessional-Question-Paper-2016.pdf" },
+  { sNo: 36, title: "Student Advisory Committee", pdfUrl: "/pdf/policy/Student-Advisory-Committee.pdf" },
+  { sNo: 37, title: "Summer Training", pdfUrl: "/pdf/policy/Summer-Training.pdf" },
+  { sNo: 38, title: "TLP", pdfUrl: "/pdf/policy/TLP.pdf" },
+  { sNo: 39, title: "Visiting Adjunct", pdfUrl: "/pdf/policy/Visiting-Adjunct.pdf" },
+  { sNo: 40, title: "WSDP", pdfUrl: "/pdf/policy/WSDP.pdf" },
+];

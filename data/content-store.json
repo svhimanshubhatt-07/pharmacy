@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "homepage": {
+    "heroHeading": "Committed to developing highly skilled professionals",
+    "heroSubheading": "A Centre of Excellence",
+    "heroDescription": "Ranked 37th nationally by NIRF 2024, Ministry of Education, Govt. of India. NBA Accredited B.Pharm program with Platinum Rating in QS I-GAUGE.",
+    "nirfBadgeText": "NIRF 2024: 37th Rank in India",
+    "admissionsApplyUrl": "https://applynow.niet.co.in/",
+    "updatedAt": "2026-11-05T05:00:25.392Z"
+  },
+  "notices": [
+    {
+      "id": "not-01",
+      "title": "Admissions Open for D.Pharm, B.Pharm & M.Pharm Academic Session 2025-26",
+      "link": "/admissions",
+      "isNew": true,
+      "priority": 1,
+      "active": true,
+      "createdAt": "2026-11-01T09:00:00.000Z",
+      "updatedAt": "2026-11-04T10:00:00.000Z"
+    },
+    {
+      "id": "not-02",
+      "title": "NIET Pharmacy achieves 37th Rank in NIRF 2024 - Ministry of Education",
+      "link": "/nirf",
+      "isNew": true,
+      "priority": 2,
+      "active": true,
+      "createdAt": "2026-11-01T09:00:00.000Z",
+      "updatedAt": "2026-11-04T10:00:00.000Z"
+    },
+    {
+      "id": "not-03",
+      "title": "PCI Approval Extension and AKTU Affiliation Extended for 2025-26",
+      "link": "/approvals-and-affiliations",
+      "isNew": false,
+      "priority": 3,
+      "active": true,
+      "createdAt": "2026-11-01T09:00:00.000Z",
+      "updatedAt": "2026-11-04T10:00:00.000Z"
+    },
+    {
+      "id": "not-04",
+      "title": "National Conference on Innovations in Drug Discovery & Clinical Trials",
+      "link": "/event",
+      "isNew": true,
+      "priority": 4,
+      "active": true,
+      "createdAt": "2026-11-02T14:30:00.000Z",
+      "updatedAt": "2026-11-04T11:20:00.000Z"
+    }
+  ],
+  "faculty": [
+    {
+      "id": "f-01",
+      "name": "Dr. Avijit Mazumder",
+      "designation": "Professor & Director",
+      "qualification": "M.Pharm, MBA, Ph.D.",
+      "department": "Pharmaceutical Sciences",
+      "experience": "24+ Years",
+      "email": "directorpharmacy@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-avijit.jpg",
+      "googleScholar": "https://scholar.google.co.in/citations?user=OYZNRFAAAAAJ&hl=en",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    },
+    {
+      "id": "f-02",
+      "name": "Dr. Rupa Mazumder",
+      "designation": "Professor, Dean & HOD",
+      "qualification": "M.Pharm, Ph.D.",
+      "department": "Pharmaceutics",
+      "experience": "21+ Years",
+      "email": "deanpharmacy@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-rupa.jpg",
+      "googleScholar": "https://scholar.google.co.in/citations?hl=en&user=hFkIrV0AAAAJ",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    },
+    {
+      "id": "f-03",
+      "name": "Dr. Salahuddin",
+      "designation": "Professor & HOD",
+      "qualification": "M.Pharm, Ph.D.",
+      "department": "Pharmaceutical Chemistry",
+      "experience": "18+ Years",
+      "email": "salahuddin@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-salahuddin.jpg",
+      "googleScholar": "https://scholar.google.co.in/citations?user=OYZNRFAAAAAJ&hl=en",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    },
+    {
+      "id": "f-04",
+      "name": "Dr. Sushma Verma",
+      "designation": "Professor",
+      "qualification": "M.Pharm, Ph.D.",
+      "department": "Pharmaceutical Sciences",
+      "experience": "16+ Years",
+      "email": "sushma.verma@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-sushma.jpg",
+      "googleScholar": "https://scholar.google.co.in/citations?hl=en&user=hFkIrV0AAAAJ",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    },
+    {
+      "id": "f-05",
+      "name": "Dr. Saumya Das",
+      "designation": "Professor & HOD",
+      "qualification": "M.Pharm, Ph.D.",
+      "department": "Pharmacology",
+      "experience": "15+ Years",
+      "email": "saumya.das@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-saumya.jpg",
+      "googleScholar": "https://scholar.google.co.in/citations?hl=en",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    },
+    {
+      "id": "f-06",
+      "name": "Dr. Prateek Porwal",
+      "designation": "Associate Professor",
+      "qualification": "M.Pharm, Ph.D.",
+      "department": "Pharmacognosy",
+      "experience": "12+ Years",
+      "email": "prateek.porwal@niet.co.in",
+      "photo": "https://res.cloudinary.com/boss8zib/image/upload/v1793776158/faculty-prateek.jpg",
+      "updatedAt": "2026-11-04T08:37:10.988Z"
+    }
+  ],
+  "policies": [
+    {
+      "id": "pdf-01",
+      "title": "PCI Approval Extension Letter 2025-26",
+      "session": "2025-26",
+      "category": "Approval",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/PCI_APPROVAL_2025-26.pdf",
+      "fileSize": "1.4 MB",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "id": "pdf-02",
+      "title": "NBA Accreditation Certificate (B.Pharm 2024-27)",
+      "session": "2024-27",
+      "category": "Approval",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/NBA_APPROVAL_2024-27.pdf",
+      "fileSize": "2.1 MB",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "id": "pdf-03",
+      "title": "NIRF 2024 Full Institutional Data Report",
+      "session": "2024",
+      "category": "NIRF",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/NIRF-APPROVAL-2024.pdf",
+      "fileSize": "3.8 MB",
+      "updatedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "pdf-04",
+      "title": "AKTU Permanent Affiliation Order 2024-25",
+      "session": "2024-25",
+      "category": "Affiliation",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/AKTU_APPROVAL_2024-25.pdf",
+      "fileSize": "980 KB",
+      "updatedAt": "2026-11-02T12:00:00.000Z"
+    },
+    {
+      "id": "pdf-05",
+      "title": "Mandatory Disclosure Document (PCI & AICTE Norms)",
+      "session": "2025-26",
+      "category": "Mandatory Disclosure",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/Mandatory_Disclosure_2025.pdf",
+      "fileSize": "4.5 MB",
+      "updatedAt": "2026-11-03T16:00:00.000Z"
+    },
+    {
+      "id": "pdf-06",
+      "title": "B.Pharm & M.Pharm Academic Regulations & Syllabus",
+      "session": "2024-25",
+      "category": "Academic",
+      "pdfUrl": "https://res.cloudinary.com/boss8zib/raw/upload/v1793776158/Syllabus_BPharm_MPharm.pdf",
+      "fileSize": "5.2 MB",
+      "updatedAt": "2026-11-03T16:00:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1793854824395-xsbhs",
+      "timestamp": "2026-11-05T05:00:24.395Z",
+      "adminUser": "Admin",
+      "action": "SYNC",
+      "entity": "PublicSite",
+      "details": "Synchronized database to public site at C:\\Users\\Khanu\\OneDrive\\Desktop\\NIET-Pharmacy-Rebuild\\data\\content-store.json"
+    },
+    {
+      "id": "log-1793787558164-dwn6i",
+      "timestamp": "2026-11-04T10:19:18.164Z",
+      "adminUser": "admin@niet.co.in",
+      "action": "LOGIN",
+      "entity": "AuthSession",
+      "details": "Successful admin authentication to portal"
+    },
+    {
+      "id": "log-1793787272189-3i2j2",
+      "timestamp": "2026-11-04T10:14:32.189Z",
+      "adminUser": "tester@gmail.com",
+      "action": "FAILED_LOGIN",
+      "entity": "AuthSession",
+      "details": "Failed login attempt for user: tester@gmail.com"
+    },
+    {
+      "id": "log-1793787232739-egxnn",
+      "timestamp": "2026-11-04T10:13:52.739Z",
+      "adminUser": "tester@gmail.com",
+      "action": "FAILED_LOGIN",
+      "entity": "AuthSession",
+      "details": "Failed login attempt for user: tester@gmail.com"
+    },
+    {
+      "id": "log-1793781446774-ln1f6",
+      "timestamp": "2026-11-04T08:37:26.774Z",
+      "adminUser": "admin@niet.co.in",
+      "action": "LOGIN",
+      "entity": "AuthSession",
+      "details": "Successful admin authentication to portal"
+    },
+    {
+      "id": "log-1793781434945-7bf7n",
+      "timestamp": "2026-11-04T08:37:14.945Z",
+      "adminUser": "tester@gmail.com",
+      "action": "FAILED_LOGIN",
+      "entity": "AuthSession",
+      "details": "Failed login attempt for user: tester@gmail.com"
+    },
+    {
+      "id": "log-1793781431014-sf10w",
+      "timestamp": "2026-11-04T08:37:11.014Z",
+      "adminUser": "tester@gmail.com",
+      "action": "FAILED_LOGIN",
+      "entity": "AuthSession",
+      "details": "Failed login attempt for user: tester@gmail.com"
+    },
+    {
+      "id": "log-seed-01",
+      "timestamp": "2026-11-04T12:00:00.000Z",
+      "adminUser": "System Initializer",
+      "action": "CREATE",
+      "entity": "DatabaseStore",
+      "details": "Initialized official NIET Pharmacy Admin Panel store with verified data."
+    },
+    {
+      "id": "log-seed-02",
+      "timestamp": "2026-11-04T13:00:00.000Z",
+      "adminUser": "admin@niet.co.in",
+      "action": "LOGIN",
+      "entity": "AuthSession",
+      "details": "Administrator logged in securely via dashboard portal."
+    }
+  ]
+}
